@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Learning how branching works in github.
